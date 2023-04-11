@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: cadetblue;
+    font-family: Arial;
+    background: chartreuse;
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    color: chartreuse;
+    font-family: Verdana;
+    font-size: 20px;
+    background: cyan;
+    text-align: center;
+}
